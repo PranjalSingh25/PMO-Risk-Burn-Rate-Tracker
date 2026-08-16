@@ -102,6 +102,9 @@ CRITICAL - AMR-003 (DHL - Singapore Hub)
   >> Escalate to PMO Director + Finance Lead
 ```
 
+## Dashboard Preview 
+![PMO Dashboard](./dashboard_screenshot.png)
+
 ## Power BI Dashboard
 
 See POWERBI_SETUP.md for instructions on building:
