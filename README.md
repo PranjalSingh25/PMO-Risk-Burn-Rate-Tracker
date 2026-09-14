@@ -103,7 +103,11 @@ CRITICAL - AMR-003 (DHL - Singapore Hub)
 ```
 
 ## Dashboard Preview 
+<<<<<<< HEAD
 ![PMO Dashboard](./dashboard_screenshot.png)
+=======
+![PMO Dashboard] (dashboard_screenshot.png)
+>>>>>>> 8fec460b648c90b9858a07f09f23679177b4f3b0
 
 ## Power BI Dashboard
 

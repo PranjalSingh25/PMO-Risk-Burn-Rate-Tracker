@@ -1,0 +1,19 @@
+{
+  "name": "PMO Dark Dashboard",
+  "dataColors": [
+    "#00D4FF", "#FF4444", "#00FF7F", "#FFA500",
+    "#7B68EE", "#FFD700", "#20B2AA", "#FF69B4"
+  ],
+  "background": "#0D1117",
+  "foreground": "#C9D1D9",
+  "tableAccent": "#00D4FF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#161B22"}}}],
+        "border": [{"color": {"solid": {"color": "#30363D"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#C9D1D9"}}}]
+      }
+    }
+  }
+}
